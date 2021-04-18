@@ -184,8 +184,7 @@
   <entry>
     <title>RabbitMQ学习笔记</title>
     <url>/2021/04/18/RabbitMQ%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<hr>
-<h1 id="RabbitMQ学习笔记"><a href="#RabbitMQ学习笔记" class="headerlink" title="RabbitMQ学习笔记"></a>RabbitMQ学习笔记</h1><p><strong>学习地址:<a href="https://www.bilibili.com/video/BV1dX4y1V73G">https://www.bilibili.com/video/BV1dX4y1V73G</a></strong></p>
+    <content><![CDATA[<h1 id="RabbitMQ学习笔记"><a href="#RabbitMQ学习笔记" class="headerlink" title="RabbitMQ学习笔记"></a>RabbitMQ学习笔记</h1><p><strong>学习地址:<a href="https://www.bilibili.com/video/BV1dX4y1V73G">https://www.bilibili.com/video/BV1dX4y1V73G</a></strong></p>
 <p><strong>仓库地址:<a href="https://gitee.com/zhuang-kang/rabbit-mq">https://gitee.com/zhuang-kang/rabbit-mq</a></strong></p>
 <h1 id="1，什么是中间件"><a href="#1，什么是中间件" class="headerlink" title="1，什么是中间件"></a>1，什么是中间件</h1><p>一个企业可能运行多个不同业务系统，可能基于不同的操作系统，不同数据库，异构的网络环境，问题是，如何把这些信息系统结合结合成一个有机地协同工作的整体，真正实现跨平台，分布式应用，中间件便是解决之道</p>
 <ul>
